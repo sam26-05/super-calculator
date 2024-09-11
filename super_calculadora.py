@@ -10,7 +10,7 @@ while True:
     print("2. Restar")
     print("3. Salir")
 
-    opcion = input("Elige una opción (1/2/3): ")
+    opcion = input("Elige una opción           (1/2/3): ")
 
     if opcion == '3':
         print("¡Adiós!")
